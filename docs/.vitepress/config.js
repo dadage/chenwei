@@ -1,6 +1,6 @@
 export default {
   title: 'Guard UI',
-  base: '/guardui/',
+  base: '/chenwei/',
   themeConfig: {
     siteTitle: 'Guard UI',
     // logo: '/authing-logo.svg',
@@ -8,7 +8,7 @@ export default {
     algolia: {
       appId: 'XO4ITI7GEQ',
       apiKey: '7175502f11c76d375047ebea8b71e9ac',
-      indexName: 'guardui'
+      indexName: 'chenwei'
     },
 
     nav: [
