@@ -12,7 +12,7 @@
 
 # Guard UI
 
-A semantic UI component library based on W3C's web component standard
+A semantic UI     component library based on W3C's web component standard
 
 <br />
 
